@@ -13,4 +13,4 @@ series of scripts to assign O-antigen serotypes to isolates of Pseudomonas aerug
 4.) Run serotyping_hits.py to create clean output file with serotype for each strain/sequence
 
 # Disclaimers:
-  - OSAdb from https://github.com/Sandramses/PAst (DOI:) 
+  - OSAdb from https://github.com/Sandramses/PAst (DOI: https://doi.org/10.1128/jcm.00349-16) 
